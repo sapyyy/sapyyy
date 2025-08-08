@@ -1,3 +1,6 @@
+![Header](./github-header-banner.png)
+
+
 # 💫 About Me:
 👋 Hi, I’m Saptadeep Ghosh — a fullstack web developer from India. <br/>
 🎨 I’m a design-driven thinker who loves turning ideas into clean, functional products. <br/>
