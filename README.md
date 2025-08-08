@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 Hi, I’m Saptadeep Ghosh — a fullstack web developer from India.
-🎨 I’m a design-driven thinker who loves turning ideas into clean, functional products.
-⚙️ Currently pursuing MCA @ Heritage Institute of Technology.
-💻 Working mostly with MERN stack, always exploring new tech.
-🚀 Building, learning, and growing one project at a time.
+👋 Hi, I’m Saptadeep Ghosh — a fullstack web developer from India. <br/>
+🎨 I’m a design-driven thinker who loves turning ideas into clean, functional products. <br/>
+⚙️ Currently pursuing MCA @ Heritage Institute of Technology. <br/>
+💻 Working mostly with MERN stack, always exploring new tech. <br/>
+🚀 Building, learning, and growing one project at a time. <br/>
 
 
 ## 🌐 Socials:
