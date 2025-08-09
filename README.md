@@ -6,7 +6,7 @@
 - Hobbies: [Designing](https://www.behance.net/saptadeepghosh), Gaming and Fitness<br/>
 
 # Tech Stack ⚙️
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,express,git,github,linux,mongodb,mysql,netlify,vercel,nodejs,ps,postman,pycharm,react,regex,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,express,git,github,linux,mongodb,mysql,netlify,vercel,nodejs,ps,postman,py,react,regex,tailwind,anaconda,discordjs,neovim,vite)](https://skillicons.dev)
 
 # GitHub Stats 🏆
 | Streak Stats | Top Languages |
