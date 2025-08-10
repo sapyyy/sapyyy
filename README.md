@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=500&color=F76200&width=435&lines=Full+Stack+Developer;Designer;Gamer)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=sapyyy&color=orange)
 
 # About Me 🍵
 - Currently pursuing MCA @ [Heritage Institute of Technology](https://www.heritageit.edu/) <br/>
@@ -14,3 +13,5 @@
 | Streak Stats | Top Languages |
 |--------------|---------------|
 | <img src="https://nirzak-streak-stats.vercel.app/?user=sapyyy&theme=codeSTACKr&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapyyy&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /> |
+
+![](https://komarev.com/ghpvc/?username=sapyyy&color=orange)
