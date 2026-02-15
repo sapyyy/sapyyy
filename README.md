@@ -10,8 +10,8 @@
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,express,git,github,linux,mongodb,mysql,netlify,vercel,nodejs,ps,postman,py,react,regex,tailwind,discordjs,neovim,vite&perline=11)](https://skillicons.dev)
 
 # GitHub Stats 🏆
-| Streak Stats | Top Languages |
-|--------------|---------------|
-| <img src="https://nirzak-streak-stats.vercel.app/?user=sapyyy&theme=codeSTACKr&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapyyy&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /> |
+| Streak Stats | 
+|--------------|
+| <img src="https://nirzak-streak-stats.vercel.app/?user=sapyyy&theme=codeSTACKr&hide_border=true" /> |
 
 ![](https://komarev.com/ghpvc/?username=sapyyy&color=orange)
